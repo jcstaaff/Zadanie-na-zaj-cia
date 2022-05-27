@@ -44,3 +44,5 @@ def setup():
     malyKraciastyKwadrat = KraciastyKwadrat(70.0)
     malyKraciastyKwadrat.sketchKraciasty(400,100,5)
     malyKraciastyKwadrat.sketchKraciasty(400,200,10)
+    # miały być dwa obiekty
+    # 1,75pkt
